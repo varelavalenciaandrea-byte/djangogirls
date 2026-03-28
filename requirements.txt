@@ -1,1 +1,3 @@
-Django==5.1.7git
+Django==5.1.7
+
+
